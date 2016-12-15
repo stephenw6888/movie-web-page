@@ -1,5 +1,4 @@
-h1{
-    font-size: 72px;
-    font-family:"Lobster";
+.wrapper {
     text-align: center;
+    background: #333;
 }
