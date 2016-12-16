@@ -1,4 +1,7 @@
-.wrapper {
+.wrapper{
+    background: #3396ff;
+}
+
+h1{
     text-align: center;
-    background: #333;
 }
