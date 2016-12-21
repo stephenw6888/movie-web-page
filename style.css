@@ -1,5 +1,6 @@
 .wrapper{
     background-color: #595959;
+    height: 900px;
 } 
 
 h1{
@@ -9,6 +10,7 @@ h1{
 
 text{
     float: left;
+    
 }
 
 img{
